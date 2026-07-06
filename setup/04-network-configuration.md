@@ -51,10 +51,16 @@ From Kali Linux:
 ping 192.168.56.20
 ```
 
+<img width="467" height="102" alt="image" src="https://github.com/user-attachments/assets/4dc74518-7e24-47fe-af85-d168b0edab9d" />
+
+
 From Windows Command Prompt:
 
 ```cmd
 ping 192.168.56.10
 ```
+
+<img width="456" height="191" alt="image" src="https://github.com/user-attachments/assets/ce115f15-2676-4c00-96a9-5878acf30f49" />
+
 
 Successful replies confirmed communication between both machines.
