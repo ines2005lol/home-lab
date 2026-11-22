@@ -53,6 +53,7 @@ Lab 01 sections:
 * [ARP](labs/01-network-discovery/arp-icmp/arp.md) · [ICMP](labs/01-network-discovery/arp-icmp/icmp.md) · [ARP and ICMP in Wireshark](labs/01-network-discovery/arp-icmp/wireshark.md)
 * [Nmap scanning](labs/01-network-discovery/nmap-intro/nmap.md) · [Nmap cheat sheet](labs/01-network-discovery/nmap-intro/notes.md)
 * [TCP vs UDP](labs/01-network-discovery/tcp-udp/README.md) · [TCP scans in Wireshark](labs/01-network-discovery/tcp-udp/tcp-wireshark.md) · [UDP scans with Netcat](labs/01-network-discovery/tcp-udp/udp-wireshark.md)
+* 📋 [Findings report](labs/01-network-discovery/findings.md): scope, results, risk ratings and recommendations
 
 ## Skills Practised
 
